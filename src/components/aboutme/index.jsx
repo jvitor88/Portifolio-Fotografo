@@ -42,7 +42,7 @@ const AboutMe = () => {
             <AboutContainer id="aboutme">
                 <Title>Sobre Mim</Title>
                 <SyledMe>
-                    <img src="./src/midia/me.jpg" alt="Foto de Pedro Vitor" />
+                    <img src="../me.jpg" alt="Foto de Pedro Vitor" />
                     <p>
                         Meu nome é Pedro Vitor, e me interessei inicialmente pela fotografia como um hobby, mas, com o tempo, minha paixão por essa arte se desenvolveu em uma profissão concreta.<br/>
                         <br/>Ao longo desse percurso, acumulei valiosa experiência, inicialmente fazendo trabalhos gratuitos para ganhar experiência e compreendendo a importância de ouvir atentamente os desejos dos meus clientes para oferecer o meu melhor trabalho.<br/>
