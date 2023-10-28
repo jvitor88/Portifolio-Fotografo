@@ -1,22 +1,22 @@
 [
     {
         "id": 0,
-        "icon": "../src/components/aboutme/tags/icons/casamento.png",
+        "icon": "./icons/casamento.png",
         "titulo": "Casamentos"
     },
     {
         "id": 1,
-        "icon": "../src/components/aboutme/tags/icons/15anos.png",
+        "icon": "./icons/15anos.png",
         "titulo": "15 anos"
     },
     {
         "id": 2,
-        "icon": "../src/components/aboutme/tags/icons/bodas.png",
+        "icon": "./icons/bodas.png",
         "titulo": "Bodas"
     },
     {
         "id": 3,
-        "icon": "../src/components/aboutme/tags/icons/corporativo.png",
+        "icon": "./icons/corporativo.png",
         "titulo": "Corporativo"
     }
 ]

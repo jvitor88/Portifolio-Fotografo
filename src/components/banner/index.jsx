@@ -1,7 +1,7 @@
 import styled from "styled-components"
 
 const BannerStyled = styled.figure`
-    background-image: url(../banner-home.jpg);
+    background-image: url(./banner-home.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -12,7 +12,7 @@ const BannerStyled = styled.figure`
     max-width: 100%;
     margin: 2em;
     @media (max-width: 500px) {
-        background-image: url(../banner-home-mobile.jpg);
+        background-image: url(./banner-home-mobile.jpg);
     }
 `
 const TitleStyled = styled.h2`
