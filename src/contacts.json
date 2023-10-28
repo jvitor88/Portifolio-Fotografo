@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "titulo": "Whatsapp",
+        "info": "(21) 91234-5678",
+        "icon":"../src/components/contact/icons/whatsapp.png",
+        "adress":"https://web.whatsapp.com/"
+    },
+    {
+        "id": 1,
+        "titulo": "Instagram",
+        "info": "@fotopedrovitor",
+        "icon":"../src/components/contact/icons/instagram.png",
+        "adress":"https://www.instagram.com/"
+    },
+    {
+        "id": 2,
+        "titulo": "E-mail",
+        "info": "pedrovitor@gmail.com",
+        "icon":"../src/components/contact/icons/email.png",
+        "adress":"mailto:fotopedrovitor@gmail.com"
+    },
+    {
+        "id": 3,
+        "titulo": "Youtube",
+        "info": "Pedro Vitor Ft",
+        "icon":"../src/components/contact/icons/youtube.png",
+        "adress":"https://www.youtube.com"
+    }
+
+
+]
