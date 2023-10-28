@@ -139,7 +139,7 @@ Error generating stack: `+i.message+`
         display: none;
     }
 `,jh=()=>C.jsxs(Nh,{children:[C.jsx("img",{src:"../logo-pedro-vitor.png",alt:"Logo Pedro Vitor"}),C.jsxs(Th,{children:[C.jsx(Wi,{name:"Sobre Mim",link:"#aboutme"}),C.jsx(Wi,{name:"Galeria",link:"#gallery"}),C.jsx(Wi,{name:"Contato",link:"#contact"})]})]}),Rh=G.figure`
-    background-image: url(./src/midia/banner-home.jpg);
+    background-image: url(../banner-home.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -150,7 +150,7 @@ Error generating stack: `+i.message+`
     max-width: 100%;
     margin: 2em;
     @media (max-width: 500px) {
-        background-image: url(./src/midia/banner-home-mobile.jpg);
+        background-image: url(../banner-home-mobile.jpg);
     }
 `,Ih=G.h2`
     font-family: 'Young Serif', serif;
@@ -239,7 +239,7 @@ Error generating stack: `+i.message+`
             text-align: center;
         }
     }
-`,Ah=()=>C.jsxs(C.Fragment,{children:[C.jsxs(Fh,{id:"aboutme",children:[C.jsx(Gu,{children:"Sobre Mim"}),C.jsxs(Dh,{children:[C.jsx("img",{src:"./src/midia/me.jpg",alt:"Foto de Pedro Vitor"}),C.jsxs("p",{children:["Meu nome é Pedro Vitor, e me interessei inicialmente pela fotografia como um hobby, mas, com o tempo, minha paixão por essa arte se desenvolveu em uma profissão concreta.",C.jsx("br",{}),C.jsx("br",{}),"Ao longo desse percurso, acumulei valiosa experiência, inicialmente fazendo trabalhos gratuitos para ganhar experiência e compreendendo a importância de ouvir atentamente os desejos dos meus clientes para oferecer o meu melhor trabalho.",C.jsx("br",{}),C.jsx("br",{}),"Muitos acontecimentos marcaram esses anos, mas todos os dias representam uma oportunidade de aprendizado, uma chance contínua de aprimoramento para entregar resultados de alta qualidade."]})]})]}),C.jsx(Mh,{})]}),Uh=G.figure`
+`,Ah=()=>C.jsxs(C.Fragment,{children:[C.jsxs(Fh,{id:"aboutme",children:[C.jsx(Gu,{children:"Sobre Mim"}),C.jsxs(Dh,{children:[C.jsx("img",{src:"../me.jpg",alt:"Foto de Pedro Vitor"}),C.jsxs("p",{children:["Meu nome é Pedro Vitor, e me interessei inicialmente pela fotografia como um hobby, mas, com o tempo, minha paixão por essa arte se desenvolveu em uma profissão concreta.",C.jsx("br",{}),C.jsx("br",{}),"Ao longo desse percurso, acumulei valiosa experiência, inicialmente fazendo trabalhos gratuitos para ganhar experiência e compreendendo a importância de ouvir atentamente os desejos dos meus clientes para oferecer o meu melhor trabalho.",C.jsx("br",{}),C.jsx("br",{}),"Muitos acontecimentos marcaram esses anos, mas todos os dias representam uma oportunidade de aprendizado, uma chance contínua de aprimoramento para entregar resultados de alta qualidade."]})]})]}),C.jsx(Mh,{})]}),Uh=G.figure`
     width: ${e=>e.$expanded?"90%":"550px"};
     max-width: 100%;
     border-radius: 20px 20px 0px 0px;
