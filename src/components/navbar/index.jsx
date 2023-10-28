@@ -84,7 +84,7 @@ const StyledMenu = styled.ul`
 const Navbar = () => {
     return(
     <StyledHeader>
-        <img src="../logo-pedro-vitor.png" alt="Logo Pedro Vitor" />
+        <img src="./public/logo-pedro-vitor.png" alt="Logo Pedro Vitor" />
         <StyledMenu>
             <MenuItem name={'Sobre Mim'} link={'#aboutme'}/>
             <MenuItem name={'Galeria'} link={'#gallery'}/>
